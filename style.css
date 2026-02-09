@@ -1,0 +1,179 @@
+body{
+    font-family: "Roboto", sans-serif
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    box-sizing: border-box;
+}
+
+.header-navigation{
+    box-sizing: border-box;
+}
+
+.header-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.header-logo-color{
+    color: #2E2F42;
+}
+
+
+.header-menu-item{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.max{
+    background: #2E2F42;
+}
+    
+
+.hero-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.hero-primary-btn{
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: #4D5AE5;
+}
+
+.visually-hidden{
+    margin: -1px;
+    border: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.features-list{
+
+}
+
+.features-item{
+
+}
+
+.features-subtitle{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.features-item-tex{
+font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+ .team{
+background: #F4F4FD;
+ }
+
+.team-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+    text-transform: capitalize;
+}
+
+.team-list{
+
+}
+
+.team-item{
+background: #fff;
+}
+
+.team-images{
+
+}
+
+.team-subtitle{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+
+
+.team-tex{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+.Portfolio{
+
+}
+
+.Portfolio-list{
+
+}
+
+.Portfolio-item{
+
+}
+
+.footer{
+    background: #2E2F42;
+}
+
+.footer-logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.footer-logo-color{
+    color: #F4F4FD;
+}
+
+.footer-tex{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
