@@ -111,9 +111,7 @@ font-weight: 400;
 }
 
 .hero-business{
-   background-image: url(./images/photo_2026-02-22_00-44-53.jpg);
-   margin: 0;
-   height: 100%;
+   background: #2E2F42;
     padding: 188px 0;
 
 }
