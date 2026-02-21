@@ -111,7 +111,9 @@ font-weight: 400;
 }
 
 .hero-business{
-    background: #2E2F42;
+   background-image: url(./images/photo_2026-02-22_00-44-53.jpg);
+   margin: 0;
+   height: 100%;
     padding: 188px 0;
 
 }
@@ -228,13 +230,14 @@ padding: 120px 0;
 
 .team-list{
 display: flex;
-gap: 24;
+gap: 24px;
 }
 
 .team-item{
-background: #fff;
-width: calc((100% - 72px) / 4);
-border-radius: 0px 0px 4px 4px;
+background-color: #FFFFFF;
+    width: calc((100% - 3 * 24px) / 4);
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    border-radius: 0 0 4px 4px;
 }
 
 .team-div-con {
@@ -242,29 +245,30 @@ border-radius: 0px 0px 4px 4px;
 }
 
 .team-images{
-
+display: block;
+    max-width: 100%;
+    height: auto;
 }
 
 .team-subtitle{
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 120%;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2E2F42;
-    text-align: center;
-    margin-bottom: 8px
+    color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 
 .team-tex{
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 150%;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    text-align: center;
+    margin-bottom: 8px;
 }
 
 .Portfolio{
